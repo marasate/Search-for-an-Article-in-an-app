@@ -17,3 +17,4 @@ TRIE Data Structure also known as the Prefix Tree or Radix Tree is remarked as a
 Pictorial representation of Trie
 
 implement-trie-prefix-tree.png
+
